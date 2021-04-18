@@ -24,5 +24,5 @@ describe("Users", () => {
       name: "User Example"
     });
     expect(response.status).toBe(400);
-  })
+  });
 });
